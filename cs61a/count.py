@@ -4,3 +4,4 @@ def count(s,value):
         if elem==value:
             total+=1
     return total
+'''for语句在python中新用法'''
